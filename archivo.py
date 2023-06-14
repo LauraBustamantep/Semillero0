@@ -1,2 +1,3 @@
-Hola todos
+import numpy as np
+import os
 
